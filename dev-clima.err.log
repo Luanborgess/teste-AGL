@@ -1,0 +1,116 @@
+The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+⨯ ./src/components/clima/weather-dashboard.tsx:12:1
+Module not found: Can't resolve '@/components/clima/weather-charts'
+  [90m10 |[0m [36mimport[0m { [33mWeatherAiRecommendations[0m } [36mfrom[0m [32m"@/components/clima/weather-ai-recommendations"[0m;
+  [90m11 |[0m [36mimport[0m { [33mWeatherAlerts[0m } [36mfrom[0m [32m"@/components/clima/weather-alerts"[0m;
+[31m[1m>[0m [90m12 |[0m [36mimport[0m { [33mWeatherCharts[0m } [36mfrom[0m [32m"@/components/clima/weather-charts"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m13 |[0m [36mimport[0m { [33mWeatherCurrentCard[0m } [36mfrom[0m [32m"@/components/clima/weather-current-card"[0m;
+  [90m14 |[0m [36mimport[0m { [33mWeatherEmptyState[0m } [36mfrom[0m [32m"@/components/clima/weather-empty-state"[0m;
+  [90m15 |[0m [36mimport[0m { [33mWeatherForecastList[0m } [36mfrom[0m [32m"@/components/clima/weather-forecast-list"[0m;
+
+Import map: aliased to relative './src/components/clima/weather-charts' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/clima/weather-dashboard.tsx
+    ./src/app/clima/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/clima/weather-dashboard.tsx:12:1
+Module not found: Can't resolve '@/components/clima/weather-charts'
+  [90m10 |[0m [36mimport[0m { [33mWeatherAiRecommendations[0m } [36mfrom[0m [32m"@/components/clima/weather-ai-recommendations"[0m;
+  [90m11 |[0m [36mimport[0m { [33mWeatherAlerts[0m } [36mfrom[0m [32m"@/components/clima/weather-alerts"[0m;
+[31m[1m>[0m [90m12 |[0m [36mimport[0m { [33mWeatherCharts[0m } [36mfrom[0m [32m"@/components/clima/weather-charts"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m13 |[0m [36mimport[0m { [33mWeatherCurrentCard[0m } [36mfrom[0m [32m"@/components/clima/weather-current-card"[0m;
+  [90m14 |[0m [36mimport[0m { [33mWeatherEmptyState[0m } [36mfrom[0m [32m"@/components/clima/weather-empty-state"[0m;
+  [90m15 |[0m [36mimport[0m { [33mWeatherForecastList[0m } [36mfrom[0m [32m"@/components/clima/weather-forecast-list"[0m;
+
+Import map: aliased to relative './src/components/clima/weather-charts' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/clima/weather-dashboard.tsx
+    ./src/app/clima/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/clima/weather-dashboard.tsx:12:1
+Module not found: Can't resolve '@/components/clima/weather-charts'
+  [90m10 |[0m [36mimport[0m { [33mWeatherAiRecommendations[0m } [36mfrom[0m [32m"@/components/clima/weather-ai-recommendations"[0m;
+  [90m11 |[0m [36mimport[0m { [33mWeatherAlerts[0m } [36mfrom[0m [32m"@/components/clima/weather-alerts"[0m;
+[31m[1m>[0m [90m12 |[0m [36mimport[0m { [33mWeatherCharts[0m } [36mfrom[0m [32m"@/components/clima/weather-charts"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m13 |[0m [36mimport[0m { [33mWeatherCurrentCard[0m } [36mfrom[0m [32m"@/components/clima/weather-current-card"[0m;
+  [90m14 |[0m [36mimport[0m { [33mWeatherEmptyState[0m } [36mfrom[0m [32m"@/components/clima/weather-empty-state"[0m;
+  [90m15 |[0m [36mimport[0m { [33mWeatherForecastList[0m } [36mfrom[0m [32m"@/components/clima/weather-forecast-list"[0m;
+
+Import map: aliased to relative './src/components/clima/weather-charts' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/clima/weather-dashboard.tsx
+    ./src/app/clima/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/clima/weather-dashboard.tsx:12:1
+Module not found: Can't resolve '@/components/clima/weather-charts'
+  [90m10 |[0m [36mimport[0m { [33mWeatherAiRecommendations[0m } [36mfrom[0m [32m"@/components/clima/weather-ai-recommendations"[0m;
+  [90m11 |[0m [36mimport[0m { [33mWeatherAlerts[0m } [36mfrom[0m [32m"@/components/clima/weather-alerts"[0m;
+[31m[1m>[0m [90m12 |[0m [36mimport[0m { [33mWeatherCharts[0m } [36mfrom[0m [32m"@/components/clima/weather-charts"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m13 |[0m [36mimport[0m { [33mWeatherCurrentCard[0m } [36mfrom[0m [32m"@/components/clima/weather-current-card"[0m;
+  [90m14 |[0m [36mimport[0m { [33mWeatherEmptyState[0m } [36mfrom[0m [32m"@/components/clima/weather-empty-state"[0m;
+  [90m15 |[0m [36mimport[0m { [33mWeatherForecastList[0m } [36mfrom[0m [32m"@/components/clima/weather-forecast-list"[0m;
+
+Import map: aliased to relative './src/components/clima/weather-charts' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/clima/weather-dashboard.tsx
+    ./src/app/clima/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+

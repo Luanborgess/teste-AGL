@@ -1,0 +1,24 @@
+
+> agro-logistic@0.1.0 dev
+> next dev --port 3000
+
+▲ Next.js 16.2.6 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.15.4:3000
+- Environments: .env
+✓ Ready in 422ms
+
+ POST /api/auth/login 200 in 332ms (next.js: 282ms, application-code: 50ms)
+ GET /maquinario 200 in 1129ms (next.js: 635ms, application-code: 494ms)
+ POST /api/maquinario/machines 201 in 164ms (next.js: 145ms, application-code: 19ms)
+ GET /api/maquinario/machines 200 in 11ms (next.js: 2ms, application-code: 9ms)
+ POST /api/maquinario/maintenances 201 in 126ms (next.js: 101ms, application-code: 24ms)
+ POST /api/maquinario/fuel-logs 201 in 134ms (next.js: 113ms, application-code: 21ms)
+ POST /api/maquinario/hour-meter 201 in 162ms (next.js: 137ms, application-code: 24ms)
+ POST /api/maquinario/hour-meter 422 in 21ms (next.js: 2ms, application-code: 19ms)
+ PUT /api/maquinario/machines/cmp63p8ky0002udwcp55iqwgy 200 in 732ms (next.js: 707ms, application-code: 25ms)
+ GET /api/maquinario/machines 200 in 15ms (next.js: 2ms, application-code: 12ms)
+ GET /maquinario 200 in 133ms (next.js: 2ms, application-code: 131ms)
+ DELETE /api/maquinario/machines/cmp63p8ky0002udwcp55iqwgy 200 in 23ms (next.js: 7ms, application-code: 16ms)
+ POST /api/auth/login 200 in 19ms (next.js: 1562µs, application-code: 18ms)
+ GET /maquinario 200 in 74ms (next.js: 9ms, application-code: 65ms)

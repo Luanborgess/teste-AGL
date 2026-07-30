@@ -1,0 +1,28 @@
+
+> agro-logistic@0.1.0 dev
+> next dev
+
+▲ Next.js 16.2.6 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.15.4:3000
+- Environments: .env
+✓ Ready in 449ms
+
+ GET /api/clima/current 307 in 443ms (next.js: 423ms, application-code: 19ms)
+ GET /login 200 in 358ms (next.js: 72ms, application-code: 286ms)
+ GET /clima 307 in 1396ms (next.js: 1284ms, application-code: 112ms)
+ GET /login 200 in 101ms (next.js: 6ms, application-code: 95ms)
+ GET /clima 200 in 1407ms (next.js: 4ms, application-code: 1403ms)
+ GET /api/clima/current 404 in 947ms (next.js: 15ms, application-code: 932ms)
+ GET /clima 200 in 1026ms (next.js: 2ms, application-code: 1023ms)
+ GET /api/clima/current 404 in 929ms (next.js: 2ms, application-code: 927ms)
+✓ Compiled in 645ms
+ GET /api/clima/current 200 in 2.4s (next.js: 30ms, application-code: 2.3s)
+ GET /clima 200 in 2.8s (next.js: 109ms, application-code: 2.7s)
+ POST /api/clima/analyze 200 in 1215ms (next.js: 203ms, application-code: 1012ms)
+ POST /api/clima/refresh 200 in 2.2s (next.js: 183ms, application-code: 2.0s)
+ GET /api/clima/current 200 in 1054ms (next.js: 18ms, application-code: 1037ms)
+ GET /clima 200 in 1248ms (next.js: 80ms, application-code: 1167ms)
+✓ Compiled in 208ms
+✓ Finished writing to filesystem cache in 12.6s
+ GET /clima 200 in 1202ms (next.js: 57ms, application-code: 1145ms)
